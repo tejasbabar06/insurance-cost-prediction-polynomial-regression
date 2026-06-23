@@ -80,7 +80,7 @@ The model demonstrates good predictive performance and generalizes well on unsee
 
 ### Prediction Result
 
-![Prediction Result](Screenshots/Prediction_result.png)
+![Prediction Result](Screenshots/Predection_result.png)
 
 ---
 
